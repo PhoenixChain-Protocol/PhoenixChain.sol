@@ -23,4 +23,4 @@
 
 ## About
 
-<p>PhoenixChain is a community-focussed, fair-launch DeFi project built for Binance Smart Chain (BSC). Three mechanisms happen in each trade: Reflection, LP Acquisition, and Reward.</p>
+<p>PhoenixChain is a community-focussed, fair-launch DeFi project built for Binance Smart Chain (BSC). Three mechanisms happen in each trade: Reflection, LP Acquisition, and Reward.</p><p>PhoenixChain is the next evolution in profits on the BSC Network: Earn $BNB just by holding $PCN token</p>
