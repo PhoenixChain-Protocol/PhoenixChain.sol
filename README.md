@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a>
+  <a href="https://phoenixfiance-ceo.gitbook.io/phoenixchain/">About</a>
   •
-  <a href="#commands">Technical Analysis</a>
+  <a href="https://phoenixmarketcap.com/">PhoenixMarketCap</a>
   •
-  <a href="#license">License</a>
+  <a href="https://github.com/PhoenixChain-Protocol/PhoenixChain.sol/blob/main/LICENSE">License</a>
   •
-  <a href="#contributors">Contributors</a>
+  <a href="https://swap.phoenixchain.finance/#/swap?inputCurrency=0xE50947AE0D86b889b384Cd791d3a24Fa1054906B">PhoenixSwap</a>
 </p>
 
 ---
